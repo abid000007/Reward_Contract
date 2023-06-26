@@ -18,7 +18,7 @@ To deploy this contract on the Polygon Mumbai Testnet, please follow these steps
 
 2. Set up a Polygon Mumbai Testnet Wallet: Create a wallet on the Polygon Mumbai Testnet to interact with the blockchain. Obtain the required testnet ETH for gas fees.
 
-3. Clone the Repository: Clone this GitHub repository to your local machine using the command `git clone <repository-url>`.
+3. Clone the Repository: Clone this GitHub repository to your local machine using the command `git clone https://github.com/abid000007/Reward_Contract.git`.
 
 4. Configure Environment Variables: Set up the required environment variables for deployment, such as your wallet's private key and the network configuration.
 
